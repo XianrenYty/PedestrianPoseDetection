@@ -3,7 +3,7 @@ Pedestrian multi target tracking and attitude detection system based on PaddlePa
 
 # 基于飞桨的行人多目标跟踪及姿态检测系统
 
-> 完整项目代码点击[此处](https://github.com/XianrenYty/PedestrianPoseDetection)
+> AIStudio项目点击[此处](https://aistudio.baidu.com/aistudio/projectdetail/2199359?shared=1)， 可直接运行
 
 ## 项目背景及意义
 **本项目旨在解决一系列社会痛点**，如十字路口、养老院和医院等公共场合人员异常行为分析。涵盖`人群聚集检测`，`跌倒检测`，`人流量统计`等功能。
